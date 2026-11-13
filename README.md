@@ -35,7 +35,6 @@
 ### 📊 Statisztika
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ed3tor&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub statisztika">
   <img height="165" src="https://streak-stats.demolab.com?user=Ed3tor&hide_border=true&theme=transparent" alt="GitHub streak">
 </p>
 
